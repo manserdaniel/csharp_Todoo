@@ -1,0 +1,15 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooLogic.dll.config
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooLogic.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooLogic.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\EntityFramework.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooData.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooData.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\TodooData.dll.config
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\EntityFramework.xml
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\obj\Debug\TodooLogic.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\obj\Debug\TodooLogic.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\obj\Debug\TodooLogic.csproj.CopyComplete
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\obj\Debug\TodooLogic.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooLogic\obj\Debug\TodooLogic.pdb

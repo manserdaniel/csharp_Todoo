@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todoo", "Todoo\Todoo.csproj", "{2206A4BC-6DE0-41DB-85F8-760F79EC80C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodooLogic", "TodooLogic\TodooLogic.csproj", "{0AB2B0C9-FEEA-4F00-BF97-FF2938DCA46B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodooData", "TodooData\TodooData.csproj", "{97702BB4-5F74-4DE0-9D01-283D5A8F0680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2206A4BC-6DE0-41DB-85F8-760F79EC80C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2206A4BC-6DE0-41DB-85F8-760F79EC80C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2206A4BC-6DE0-41DB-85F8-760F79EC80C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2206A4BC-6DE0-41DB-85F8-760F79EC80C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB2B0C9-FEEA-4F00-BF97-FF2938DCA46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB2B0C9-FEEA-4F00-BF97-FF2938DCA46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB2B0C9-FEEA-4F00-BF97-FF2938DCA46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB2B0C9-FEEA-4F00-BF97-FF2938DCA46B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97702BB4-5F74-4DE0-9D01-283D5A8F0680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97702BB4-5F74-4DE0-9D01-283D5A8F0680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97702BB4-5F74-4DE0-9D01-283D5A8F0680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97702BB4-5F74-4DE0-9D01-283D5A8F0680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783EA8CD-9BD8-472E-BA1F-7C0E95FB178C}
+	EndGlobalSection
+EndGlobal

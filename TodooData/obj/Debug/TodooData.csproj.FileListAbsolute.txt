@@ -1,0 +1,12 @@
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\TodooData.dll.config
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\TodooData.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\TodooData.pdb
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\EntityFramework.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\EntityFramework.xml
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\obj\Debug\TodooData.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\obj\Debug\TodooData.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\obj\Debug\TodooData.csproj.CopyComplete
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\obj\Debug\TodooData.dll
+C:\Users\daniel\Desktop\CodingCampus\Spezialisierung_C#\Todoo_Sql\Todoo\TodooData\obj\Debug\TodooData.pdb
